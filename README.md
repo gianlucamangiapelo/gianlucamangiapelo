@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gianlucamangiapelo" alt="gianlucamangiapelo" /></a> </p>
 
-- 🔭 I’m currently working at [Deltatre](https://www.deltatre.com/) 
+- 🔭 I’m currently working at [Factor Eleven](https://www.factor-eleven.de/en/) 
 
-<!-- - 🌱 I’m currently learning **performance testing and Gatling** -->
+<!-- - 🌱 I’m currently learning **AI testing** -->
 
 <!-- - 👯 I’m contributing to the the open-source community via [Selenideium Element Inspector](https://mszeles.com/selenium-javascript-python-c-cypress-testcafe-playwright-squish-selector-generation-has-been-added-to-selenideium-element-inspector-v20) -->
 
